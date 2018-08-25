@@ -1,0 +1,5 @@
+total 2
+-rw-r--r-- 1 xiaom 197609 170 Aug 25 17:28 file_1.txt
+-rw-r--r-- 1 xiaom 197609   0 Aug 25 17:29 file_2.txt
+-rw-r--r-- 1 xiaom 197609   0 Aug 25 16:30 file_a.txt
+-rw-r--r-- 1 xiaom 197609 115 Aug 25 17:21 file_d.txt

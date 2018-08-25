@@ -1,4 +1,8 @@
-total 3
+
+hai lo a 
+ni hao ma 
+wo hen hao 
+:total 3
 -rw-r--r-- 1 xiaom 197609  44 Aug 25 17:40 file_1.txt
 -rw-r--r-- 1 xiaom 197609   0 Aug 25 17:41 file_2.txt
 -rw-r--r-- 1 xiaom 197609   0 Aug 25 16:30 file_a.txt
